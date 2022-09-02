@@ -860,4 +860,4 @@ void reset_seguridad()
        lcd.write(remainder);   
  }
 //******************************************************************************}
-//end of lines
+//end of line
